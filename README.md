@@ -1,1 +1,1 @@
-# BW-Project
+# BW-Graduate Trainee Project
